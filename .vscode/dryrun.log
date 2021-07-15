@@ -1,0 +1,5 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory '/home/nickman/Documents/Nickman/60-69 MicroBiz/61 Draft.dev/makefiles'
+make: Nothing to be done for 'all'.
+make: Leaving directory '/home/nickman/Documents/Nickman/60-69 MicroBiz/61 Draft.dev/makefiles'
+ 

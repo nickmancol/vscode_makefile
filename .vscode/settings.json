@@ -1,0 +1,21 @@
+{
+    "makefile.configurations": [
+        {
+            "name": "Default",
+            "makeArgs": []
+        },
+        {
+            "name": "Print make version",
+            "makeArgs": ["--version"]
+        }
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/nickman/Documents/Nickman/60-69 MicroBiz/61 Draft.dev/makefiles",
+            "binaryPath": "/home/nickman/Documents/Nickman/60-69 MicroBiz/61 Draft.dev/makefiles/target/CoinFlipper.out",
+            "binaryArgs": [
+                "101"
+            ]
+        }
+    ]
+}
